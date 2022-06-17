@@ -139,5 +139,7 @@ void loop()
  
 ## OUTPUT :
 ![output](./r1.png)
-### RESULTS : 
+![output](./r1.PNG)
+
+## RESULTS : 
 Arduino uno is interfaced with FSR and output values are indicated on a graph.
